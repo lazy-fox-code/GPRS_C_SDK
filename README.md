@@ -83,7 +83,7 @@ Integrates a wide range of features including basic GPIO, UART, SPI, IIC, ADC, R
 
 there's two way to download SDK:
 
-* Download the latest released archive from [github release page](https://github.com/Ai-Thinker-Open/GPRS_C_SDK/releases).
+* Download the latest released archive from [github release page](GPRS_C_SDK/releases).
   > This release gets the released version of the code
 
 * Or clone directly(need to install `git`)
