@@ -1,10 +1,7 @@
 [GPRS C SDK]
 =====
 
-Ai-Thinker GPRS SoC development SDK written by C.
-
-[中文版本](./README.md)
-
+GPRS SoC development SDK written by C.
 
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/ai-thinker-open/gprs_c_sdk.svg)](http://isitmaintained.com/project/ai-thinker-open/gprs_c_sdk "Average time to resolve an issue") [![Percentage of issues still open](http://isitmaintained.com/badge/open/ai-thinker-open/gprs_c_sdk.svg)](http://isitmaintained.com/project/ai-thinker-open/gprs_c_sdk "Percentage of issues still open")
 
