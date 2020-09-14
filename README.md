@@ -1,4 +1,4 @@
-[Ai-Thinker GPRS C SDK](https://github.com/Ai-Thinker-Open/GPRS-C-SDK)
+[Ai-Thinker GPRS C SDK]
 =====
 
 Ai-Thinker GPRS SoC development SDK written by C.
@@ -96,9 +96,9 @@ git clone https://github.com/Ai-Thinker-Open/GPRS_C_SDK.git
 
 ### Develop applications using the SDK
 
-Examples refer to the [demo](https://github.com/Ai-Thinker-Open/GPRS_C_SDK/tree/master/demo) folder
+Examples refer to the [demo](GPRS_C_SDK/tree/master/demo) folder
 
-**Doumentation** here:  [GPRS C SDK DOC](https://ai-thinker-open.github.io/GPRS_C_SDK_DOC/en)
+**Doumentation** here:  [GPRS C SDK DOC](GPRS_C_SDK_DOC/en)
 
 Including environment installation, burn & debug, api docs etc.
 
@@ -107,7 +107,7 @@ Including environment installation, burn & debug, api docs etc.
 
 * [creat issue on github](https://github.com/Ai-Thinker-Open/GPRS-C-SDK/issues/new)
 
-* Or [discuss on forum ](http://bbs.ai-thinker.com/forum.php?mod=forumdisplay&fid=37)
+* Or [discuss on forum ](forum.php?mod=forumdisplay&fid=37)
 
 * Click ★ <kbd> Star </kbd> on the right conner of this page if this repo helps you
 
