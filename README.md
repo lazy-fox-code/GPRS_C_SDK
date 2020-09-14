@@ -1,4 +1,4 @@
-[Ai-Thinker GPRS C SDK]
+[GPRS C SDK]
 =====
 
 Ai-Thinker GPRS SoC development SDK written by C.
@@ -105,7 +105,7 @@ Including environment installation, burn & debug, api docs etc.
 
 ## ( E ) Feedback
 
-* [creat issue on github](https://github.com/Ai-Thinker-Open/GPRS-C-SDK/issues/new)
+* [creat issue on github](GPRS-C-SDK/issues/new)
 
 * Or [discuss on forum ](forum.php?mod=forumdisplay&fid=37)
 
